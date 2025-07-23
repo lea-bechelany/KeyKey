@@ -39,18 +39,18 @@ It's a fun way to practice spelling and test your speed, without ever touching y
 
 ## 🛠️ Installation
 
-**Clone the repo**
+## Clone the repo
 
 git clone https://github.com/yourusername/KeyKey.git
 cd KeyKey
 
 
-**Install the requirements**
+## Install the requirements
 
 pip install opencv-python mediapipe numpy requests playsound
 
 
-**Run the game**
+## Run the game
 
 python keykey.py
 
